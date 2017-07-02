@@ -1,0 +1,6 @@
+exe\steps\HardCoreSteps.class
+exe\runner\GiftBuyerTest.class
+exe\steps3\NoviceSteps.class
+exe\runner\NoviceTest.class
+exe\runner\HardCoreTest.class
+exe\steps2\GiftBuyerSteps.class
